@@ -1,0 +1,16 @@
+barangay_id,barangay_name,lat,lon,flood_hazard_level,flood_hazard_score,in_ssa1,in_ssa2,in_ssa3,max_ssa_level,storm_surge_score,overall_hazard
+1,Balansay,13.207799,120.640617,Low,0.2,False,True,True,3,1.0,MODERATE
+2,Fatima,13.17276,120.664584,Low,0.2,False,False,True,3,1.0,MODERATE
+3,Payompon,13.219053,120.602478,Low,0.2,True,True,True,3,1.0,MODERATE
+4,San Luis,13.21,120.65,Low,0.2,False,False,False,0,0.0,LOW
+5,Talabaan,13.144559,120.684837,Low,0.2,True,True,True,3,1.0,MODERATE
+6,Tangkalan,13.271995,120.62905,Medium,0.6,False,False,False,0,0.0,LOW
+7,Tayamaan,13.229811,120.565745,Medium,0.6,True,True,True,3,1.0,HIGH
+8,Poblacion 1,13.223767,120.596847,Low,0.2,True,True,True,3,1.0,MODERATE
+9,Poblacion 2,13.221329,120.59445,Low,0.2,True,True,True,3,1.0,MODERATE
+10,Poblacion 3,13.224442,120.595053,Low,0.2,True,True,True,3,1.0,MODERATE
+11,Poblacion 4,13.224109,120.593705,Low,0.2,True,True,True,3,1.0,MODERATE
+12,Poblacion 5,13.223584,120.592086,Low,0.2,True,True,True,3,1.0,MODERATE
+13,Poblacion 6,13.226094,120.590585,Low,0.2,True,True,True,3,1.0,MODERATE
+14,Poblacion 7,13.223684,120.588975,Low,0.2,True,True,True,3,1.0,MODERATE
+15,Poblacion 8,13.228705,120.585884,Medium,0.6,True,True,True,3,1.0,HIGH
